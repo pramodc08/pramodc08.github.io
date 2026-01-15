@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Submitted Master's Thesis on Robot-adaptive Neural Inverse Kinematics.
+date: 2024-06-17 14:00:00-0000
 inline: false
 related_posts: false
 ---

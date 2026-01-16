@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Not there yet!
+description: Not there yet but we can get somewhere!
 nav: true
 nav_order: 2
 ---

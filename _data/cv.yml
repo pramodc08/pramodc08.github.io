@@ -81,19 +81,49 @@
 #       items:
 #         - Max Planck Medal
 
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items:
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
+- title: <i class="fa-solid fa-hashtag"></i> Skills
+  type: nested_list
+  contents:
+    - title: Programming
+      items:
+        - Python, C++, Bash, Javascript
+        - Pytorch, CUDA
+    - title: Web
+      items:
+        - React, Next.js, Redux/Context, Webpack, Flask/Quart
+        - REST, Websockets, GraphQL
+    - title: Database
+      items:
+        - MongoDB, MYSQL, Pandas
+    - title: Automation
+      items:
+        - Proxmox, Ansible, Docker, Git CI/CD, Redis
 
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+- title: Languages
+  type: nested_list
+  contents:
+    - title: English
+      items:
+        - Fluent
+    - title: German
+      items:
+        - Basic
+
+- title: <i class="fa-solid fa-tag"></i> Academic Interests
+  type: nested_list
+  contents:
+    - title: Deep Learning
+      items:
+        - Deep reinforcement learning
+        - Self-supervised learning
+    - title: Evolutionary algorithms
+    - title: Robot learning
+      items:
+        - AI-based control algorithms
+        - Morphology design
+
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Bouldering, Cycling, Cooking
